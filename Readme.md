@@ -4,7 +4,7 @@
 
 Demonstrate all the Apple Watch OS 2 (beta) haptic types available
 
-![Before screenshot](https://github.com/xta/WatchAppHapticDemo/raw/master/assets/watch_screenshot.png.png)
+![Watch App screenshot](https://github.com/xta/WatchAppHapticDemo/raw/master/assets/watch_screenshot.png)
 
 ## Instructions
 
