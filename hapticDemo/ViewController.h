@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  hapticDemo
+//
+//  Created by Rex on 8/16/15.
+//  Copyright © 2015 xta. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+
+@end
+
